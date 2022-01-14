@@ -5,6 +5,7 @@ class City(object):
     def __str__(self):
         return self.name
 
+  
 
 class Street(object):
     def __init__(self, properties):
